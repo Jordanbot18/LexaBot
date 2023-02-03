@@ -6,7 +6,7 @@ import fs from 'fs'
 
 global.owner = [
   ['51987602309', '@LexaBot', true],
-  ['51958025378', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖(secundario)', true],
+  ['51958025378', '@LexaBot(secundario)', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
