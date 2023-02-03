@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['51955095498', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖', true],
-  ['51933348947', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖(secundario)', true],
+  ['51987602309', '@LexaBot', true],
+  ['51958025378', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖(secundario)', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
-global.author = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
+global.packname = 'LexaBot'
+global.author = 'LexaBot'
 
-global.wm = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
-global.igfg = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
+global.wm = 'LexaBot'
+global.igfg = 'LexaBot'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
